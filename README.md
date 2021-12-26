@@ -1,4 +1,6 @@
-Steps:
+![output-screenshot](src/output-screenshot.png)
+
+##Steps to run the app:
 
 1. Clone the frontend and run it
    1. `git clone https://github.com/surajkadam98/product-review-sentiment-analysis-app.git`
