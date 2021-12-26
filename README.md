@@ -1,4 +1,4 @@
-![output-screenshot](src/output-screenshot.png)
+![output-screenshot](output-screenshot.png)
 
 ## Steps to run the app:
 
